@@ -5,4 +5,4 @@ et maintenant on modifie depuis Github
 
 mais aussi depuis ma machine en local
 
-et c'est cool (message depuis github
+et c'est cool message depuis github
